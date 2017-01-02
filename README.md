@@ -6,3 +6,6 @@
 ## GDAL
 - [Making geospatial PDF maps from OSM with GDAL](http://latuviitta.org/documents/Geospatial_PDF_maps_from_OSM_with_GDAL.pdf)
 - [Creating Geospatial PDFs with GDAL Tools](http://www.spatialthoughts.com/blog/gis/geopdf-gdal/)
+
+## Mapshaper
+- [Geo Data Processing with Mapshaper](http://www.spatialthoughts.com/blog/gis/mapshaper-command-line/)
