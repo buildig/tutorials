@@ -1,8 +1,8 @@
 # Tutorials
 
-## SketchUp
-- http://www.sketchup.com/
-- [SketchUp running on Ubuntu 16.04](http://www.dedoimedo.com/computers/sketchup-ubuntu-xerus.html) ([installing wine + playonlinux](http://askubuntu.com/questions/770687/how-to-install-playonlinux-on-ubuntu-16-04/778211#778211))
+## GeoServer
+- http://geoserver.org/
+- [Orchestrating GeoServer with Docker and Fig](http://kartoza.com/en/blog/orchestrating-geoserver-with-docker-and-fig/)
 
 ## GDAL
 - http://www.gdal.org/
@@ -12,6 +12,10 @@
 ## Mapshaper
 - http://mapshaper.org/
 - [Geo Data Processing with Mapshaper](http://www.spatialthoughts.com/blog/gis/mapshaper-command-line/)
+
+## SketchUp
+- http://www.sketchup.com/
+- [SketchUp running on Ubuntu 16.04](http://www.dedoimedo.com/computers/sketchup-ubuntu-xerus.html) ([installing wine + playonlinux](http://askubuntu.com/questions/770687/how-to-install-playonlinux-on-ubuntu-16-04/778211#778211))
 
 ## TURF
 - http://turfjs.org/
