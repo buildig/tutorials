@@ -1,4 +1,4 @@
-# Tutorials
+# BIM & GIS tutorials
 
 _[edit this file](https://github.com/buildig/tutorials/edit/master/README.md)_
 
