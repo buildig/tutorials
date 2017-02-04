@@ -12,6 +12,10 @@ _[edit this file](https://github.com/buildig/tutorials/edit/master/README.md)_
 - [Docker image for BIMserver 1.4.0](https://github.com/jenca-cloud/docker-bimserver)
 - [Install BIMserver on Ubuntu 14.04](https://bhushanbharat.wordpress.com/2015/10/13/install-bimserver-on-ubuntu-14-04/)
 
+## [Drupal 8](https://www.drupal.org/)
+
+- [Drupal 8 Front-End Architecture](https://jordanpagewhite.github.io/drupal-8-front-end-architecture/#open-source-drupal-8-themes-with-patternlab-or-kss-node-integration-the)
+
 ## [GDAL](http://www.gdal.org/)
 
 - [Making geospatial PDF maps from OSM with GDAL](http://latuviitta.org/documents/Geospatial_PDF_maps_from_OSM_with_GDAL.pdf)
