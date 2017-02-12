@@ -15,6 +15,7 @@ _[edit this file](https://github.com/buildig/tutorials/edit/master/README.md)_
 ## [Drupal 8](https://www.drupal.org/)
 
 - [Drupal 8 Front-End Architecture](https://jordanpagewhite.github.io/drupal-8-front-end-architecture/#open-source-drupal-8-themes-with-patternlab-or-kss-node-integration-the)
+- [Drupal Composer recipes](https://www.amazeelabs.com/en/blog/drupalcomposerrecipes)
 
 ## [GDAL](http://www.gdal.org/)
 
